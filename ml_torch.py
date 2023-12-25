@@ -23,3 +23,4 @@ result, result_dict = infer_instance.infer_one(
     escape=escape,
     conf=conf
 )
+print(result, result_dict)
